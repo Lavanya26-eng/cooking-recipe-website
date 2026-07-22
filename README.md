@@ -6,7 +6,8 @@ Chef's Table is a modern and responsive recipe website built using **HTML, CSS, 
 
 ## 📌 Features
 
-- 🔍 Search recipes by name or ingredients
+- 🔍 Search recipes by name or ingredients through search bar
+- 
 - 🍽️ Browse recipes by category
 - ❤️ Add or remove recipes from Favorites
 - 📖 View complete recipe details
